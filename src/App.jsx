@@ -27,9 +27,9 @@ const posts = [
       role: 'CTO @Rocketseat'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galera' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portfolio. É um projeto que eu fiz no NLW, evento da Rocketseat' },
-      { type: 'link', content: 'github.com/bzenky' },
+      { type: 'paragraph', content: 'Fala dev' },
+      { type: 'paragraph', content: 'Acabei de subir o primeiro capítulo das aulas atualizadas do Ignite. Bora codar !' },
+      { type: 'link', content: 'www.rocketseat.com.br' },
     ],
     publishedAt: new Date('2022-07-01 08:13:00'),
   }
